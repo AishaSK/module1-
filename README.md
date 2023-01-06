@@ -9,11 +9,13 @@ This repository is for the site titled "Horiseon".
 The comapany requested the site needed the semantics updating. 
 I have updated and changed the HTML alongside the CSS to make it easier to operate and function. 
 
-#Deployed link
-https://aishask.github.io/module1-/
+#Deployed link:
+[GitHub Pages]
+(https://aishask.github.io/module1-/)
 
-#my repository link
-https://github.com/AishaSK/module1-
+#my repository link:
+[GitHub Pages]
+(https://github.com/AishaSK/module1-)
 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
