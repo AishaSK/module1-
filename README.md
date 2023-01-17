@@ -1,8 +1,6 @@
-# Module 1- Challenge
+//(# Module 1- Challenge)
 
-Code Refactoring.
-
-# Your Project Title
+Code Refactoring-- Horiseon Code Refactor
 
 ## Description 
 This repository is for the site titled "Horiseon".
@@ -18,11 +16,7 @@ I have updated and changed the HTML alongside the CSS to make it easier to opera
 (https://github.com/AishaSK/module1-)
 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![screenshot of my deployed page] (assets/images/Screenshot.png "screenshot of my page)
-```
+![Screenshot (9)](https://user-images.githubusercontent.com/118477467/213008685-3687b7fe-3053-44fb-9f98-63d41825d6c6.png)
 
 
 ## Credits

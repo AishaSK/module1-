@@ -3,8 +3,10 @@
     padding: 0;
     margin: 0;}
 
+     
 body {
-    background-color : #d9dcd6; /* background colour for full body */
+    background-color : #d9dcd6; 
+    /* background colour for full body */
 }
     
 
@@ -15,12 +17,13 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    /*this is for the header */
+    /*this is for the header only */
 }
 
-header h1 {
+header h1 { 
     display: inline-block;
     font-size: 48px;
+    /* header is larger */
 }
 
 header h1 .seo {
@@ -53,7 +56,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero { 
+    /* hero banner */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -73,12 +77,14 @@ p {
 }
 
 main {
+    /* main content */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 aside {
+    /* aside items */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -123,6 +129,7 @@ article img {
 }
 
 .service {
+    /* service items */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
